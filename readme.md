@@ -1,0 +1,2 @@
+Software for DAQ WinCE (Wincon8000) gas measurement, flow and another parameters calculations. Data acquisition primary values from internal modules and prepare data for API transfer over Http protocol.
+ 
